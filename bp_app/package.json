@@ -1,0 +1,11 @@
+{
+  "name": "bp_app",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@sap/grunt-sapui5-bestpractice-build": "1.4.0",
+    "@openui5/ts-types": "1.64.1"
+  },
+  "scripts": {
+    "build" : "grunt --base ../ --gruntfile ./Gruntfile.js"
+  }
+}

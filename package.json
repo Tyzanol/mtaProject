@@ -1,0 +1,7 @@
+{
+  "name": "mta_bp",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@sap/grunt-sapui5-bestpractice-build": "1.4.0"
+  }
+}
